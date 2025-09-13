@@ -24,8 +24,7 @@
 
 ---
 
-## ⌨️ Fun Typing Banner
-## ⌨️ Fun Typing Banner
+## ⌨️ Hallo guys
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=00C2FF&width=500&lines=Halo+semua!;Saya+Ezy+m+ikbal+👋;Selamat+Datang+di+Profil+GitHub+saya!;Saya+suka+belajar+dan+ngoding+💻)](https://git.io/typing-svg)
 
 ---
