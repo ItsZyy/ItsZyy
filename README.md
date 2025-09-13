@@ -25,7 +25,8 @@
 ---
 
 ## ⌨️ Fun Typing Banner
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Halo+semua!;Selamat+datang+di+profil+saya!;Saya+suka+ngoding+💻)](https://git.io/typing-svg)
+## ⌨️ Fun Typing Banner
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=00C2FF&width=500&lines=Halo+semua!;Saya+Ezy+m+ikbal+👋;Selamat+Datang+di+Profil+GitHub+saya!;Saya+suka+belajar+dan+ngoding+💻)](https://git.io/typing-svg)
 
 ---
 
@@ -35,7 +36,4 @@
 ---
 
 ## 🔗 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&logo=youtube&logoColor=white)](https://youtube.com/USERNAME_KAMU)
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/zyymikbll_?igsh=MTd5N2cxZDFwNXR4dQ==)
