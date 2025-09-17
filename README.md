@@ -1,6 +1,6 @@
 <!-- Banner / Foto Profil -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsZyy/ItsZyy/main/summer.jpg" width="400">
+  <img src="https://raw.githubusercontent.com/ItsZyy/ItsZyy/main/summer.jpg" width="100%">
 </p>
 
 # 👋 Hi, I’m Ezy Muhamad Ikbal
@@ -63,7 +63,7 @@
 ---
 
 ## 🐍 Snake Game Contributions
-![Snake animation](https://github.com/ItsZyy/ItsZyy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ItsZyy/ItsZyy/output/github-contribution-grid-snake.svg)
 
 ---
 
