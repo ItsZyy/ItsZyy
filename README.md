@@ -1,6 +1,6 @@
 <!-- Banner / Foto Profil -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItsZyy/ItsZyy/main/summer.png" width="200">
+  <img src="https://raw.githubusercontent.com/ItsZyy/ItsZyy/main/summer.jpg" width="200">
 </p>
 
 # 👋 Hi, I’m Ezy muhamad ikbal
