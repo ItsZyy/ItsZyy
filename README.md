@@ -62,9 +62,8 @@
 
 ---
 
-
 ## 🐍 Snake Game Contributions
-![Snake animation](https://raw.githubusercontent.com/ItsZyy/ItsZyy/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=ItsZyy)
 
 ---
 
